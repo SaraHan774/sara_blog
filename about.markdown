@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Sara's Tech Blog
+2018.08 부터 현재까지 프로그래밍을 하고 있는 비전공자의 블로그.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Resume
+> This is a one-page resume written in DEC 2019.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+* [Resume : Link to Google Docs](https://docs.google.com/document/d/1MHinuHvub7FpWrEO5PxWtRtEf_WOcXKPM1vjUYDkV_A/edit?usp=sharing)
