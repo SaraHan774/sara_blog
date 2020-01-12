@@ -4,5 +4,19 @@ title: "My First Post"
 author: "Sara Han"
 ---
 
-### Sara's Tech Blog
-2018.08 ~ 현재까지 프로그래밍을 하고 있는 비전공자의 블로그.
+### I AM A ...
+* Student
+* Android Developer
+* Google Lover
+* Pet Lover
+* Curious Person
+* Multi-Lingual (Korean, English, Chinese, Japanese)
+
+### I WILL POST ...
+* My thoughts about various scientific/technological concepts.
+* My struggles during my own toy projects. (Mainly Android)
+* My interests such as
+  * technological accessibility of disabled people
+  * major depression disorder
+  * making more comfortable UI/UX for everyone
+  * and more
