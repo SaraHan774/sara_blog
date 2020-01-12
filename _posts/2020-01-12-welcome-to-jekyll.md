@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Title"
+title:  "Welcome Post"
 date:   2020-01-12 20:00:22 +0900
 categories: jekyll update
 author: "Sara Han"
