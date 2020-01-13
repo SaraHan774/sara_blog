@@ -68,7 +68,7 @@ permalink: "/about"
 
 #### Others
 * **Sample App Made for Teaching School Mentees : Movie Database App (2019.08)**
-* **Simple Movie Poster App that displays movie information fetched from movie site API**
+  * Simple Movie Poster App that displays movie information fetched from movie site API
   * Includes Room DB, LiveData, ViewModel
   * Has like button, comment & sharing function
 
