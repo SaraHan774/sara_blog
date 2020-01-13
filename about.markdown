@@ -18,19 +18,6 @@ Github : https://github.com/SaraHan774
 Linkedin : www.linkedin.com/in/gahee-han-sara
 ```
 
-
-<p style="text-align: right">
-<strong>Gahee Han</strong></p>
-
-
-<p style="text-align: right">
-Self-taught Android Developer</p>
-
-
-<p style="text-align: right">
-Hanyang University Undergraduate Student</p>
-
-
 **✔ Education**
 
 
