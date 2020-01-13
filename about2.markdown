@@ -1,3 +1,9 @@
+---
+layout: page
+title: About2
+permalink: /about2/
+---
+
 <!----- Conversion time: 0.655 seconds.
 
 
