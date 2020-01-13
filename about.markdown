@@ -8,7 +8,7 @@ permalink: "/about"
 * E-mail : sarahan774@gmail.com
 * Mobile : +82-10-7152-8590 (South Korea)
 * Github : [https://github.com/SaraHan774](https://github.com/SaraHan774)
-* Linkedin : [www.linkedin.com/in/gahee-han-sara](www.linkedin.com/in/gahee-han-sara)
+* Linkedin : [https://www.linkedin.com/in/gahee-han-sara](https://www.linkedin.com/in/gahee-han-sara)
 
 ### ✔ Education
 * Hanyang University Undergraduate (2016.02 - Present)
