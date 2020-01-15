@@ -2,7 +2,7 @@
 layout: post
 title: 100 Days of Code Challenge
 author: "Sara Han"
-comment: true
+comments: true
 ---
 
 ### 도전 시작!

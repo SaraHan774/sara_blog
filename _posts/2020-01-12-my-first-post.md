@@ -2,7 +2,7 @@
 layout: post
 title: "My First Post"
 author: "Sara Han"
-comment: true
+comments: true
 ---
 
 ### I AM A ...
