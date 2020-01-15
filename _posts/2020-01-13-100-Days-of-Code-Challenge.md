@@ -16,3 +16,7 @@ comment: true
 - [ ] 1월 15일 수요일
 - [ ] 1월 16일 목요일
 - [ ] 1월 17일 금요일
+
+{% if page.comments == true %}
+  {% include disqus.html %}
+{% endif %}
