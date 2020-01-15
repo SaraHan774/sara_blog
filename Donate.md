@@ -1,8 +1,5 @@
 ---
 layout: "page"
-title: Donate
-permalink: "/donate/"
+title: TravelLog
+link: "https://saratravelog.blogspot.com"
 ---
-> This is a Sample Page.
-
-Donate to our site
