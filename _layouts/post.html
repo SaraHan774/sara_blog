@@ -3,6 +3,10 @@ layout: post
 comments: true
 ---
 
-{% if page.comments == true %}
-  {% include disqus.html %}
-{% endif %}
+<article class="post">
+
+
+  {% if page.comments == true %}
+    {% include disqus.html %}
+  {% endif %}
+</article>
