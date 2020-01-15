@@ -7,15 +7,14 @@ title: TravelLog
 * [Link to my Blogspot](https://saratravelog.blogspot.com)
 
 <p>
-I started this blog in JAN 2020, which is quite recent.
 <br>
-I have traveled to countries such as
+I have traveled to countries such as...
 <br>
 </p>
-* Mainland China (Beijing, Tianjin, Guangzhou, Shenzhen, Hainandao ...)
-  * Studied 4 months at 清华大学
-* Hong Kong  
-  * Studied one month at 香港理工大学
-* Taiwan (Taibei, Tainan, Xinzhu ... )
-  * Studied 4 months at 国立清华大学
-* Japan (Tokyo, Nagoya, Fukuoka ...)
+* **Mainland China** (Beijing, Tianjin, Guangzhou, Shenzhen, Hainandao ...)
+  * Studied 4 months at 清華大學
+* **Hong Kong**
+  * Studied one month at 香港理工大學
+* **Taiwan** (Taibei, Tainan, Xinzhu ... )
+  * Studied 4 months at 國立清華大學
+* **Japan** (Tokyo, Nagoya, Fukuoka ...)
