@@ -21,7 +21,3 @@ comments: true
   * major depression disorder
   * making more comfortable UI/UX for everyone
   * and more
-
-{% if page.comments == true %}
-  {% include disqus.html %}
-{% endif %}

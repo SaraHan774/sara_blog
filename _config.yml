@@ -43,6 +43,7 @@ defaults:
     values:
        layout: "post"
        title: "My Title"
+       comments : true
        #values
 
 # Exclude from processing.
