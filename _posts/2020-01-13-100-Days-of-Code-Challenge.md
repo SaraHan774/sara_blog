@@ -15,5 +15,6 @@ comments: true
   * 버블정렬 관련 연습문제 1개 - 아직 더 수정해야 함. [Link](https://github.com/SaraHan774/algorithms_c/blob/master/today_i_learned/20200114.md)
 - [X] 1월 15일 수요일
   * O'REILLY 사이트의 Kotlin 기초 강좌 학습
-- [ ] 1월 16일 목요일
+- [X] 1월 16일 목요일
+  * `The Big Nerd Ranch Guide` MVVM & Databinding Challenge 풀이. [Link](https://github.com/SaraHan774/BeatBox)
 - [ ] 1월 17일 금요일
