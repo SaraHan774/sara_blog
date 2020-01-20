@@ -25,11 +25,11 @@ comments: true
 2. 알고리즘 in C 6단원 완료하기
 3. Udacity 의 `Mars Real Estate` 앱 Starter Code 부터 따라가면서 학습하기 [Link](https://github.com/udacity/andfun-kotlin-mars-real-estate/tree/Step.01-Exercise-Making-Mars-Web-Service-Contact)
 
-- [ ] 1월 20일 월
+- [X] 1월 20일 월
    * Udacity `Trivia` 앱으로 Navigation Graph 관련 학습
-   * 알고리즘 Shell 정렬까지 학습
+   * ~~알고리즘 Shell 정렬까지 학습~~ (binary insertion sort 까지 했음)
 - [ ] 1월 21일 화
-  * 알고리즘 Quick Sort 학습
+  * 알고리즘 Quick Sort, Shell Sort 학습
   * **Naver AI API testing + 결과 보고**
 - [ ] 1월 22일 수
   * 알고리즘 Merge Sort 학습
