@@ -17,4 +17,26 @@ comments: true
   * O'REILLY 사이트의 Kotlin 기초 강좌 학습
 - [X] 1월 16일 목요일
   * `The Big Nerd Ranch Guide` MVVM & Databinding Challenge 풀이. [Link](https://github.com/SaraHan774/BeatBox)
-- [ ] 1월 17일 금요일
+- [X] 1월 17일 금요일
+  * `The Big Nerd Ranch Guide` 책의 CriminalIntent 앱 따라가면서 학습.
+
+### Week2 Goal : 알고리즘 문제풀이, 해커톤 준비, Kotlin 학습
+1. Naver AI Hackday API testing (OCR ... )
+2. 알고리즘 in C 6단원 완료하기
+3. Udacity 의 `Mars Real Estate` 앱 Starter Code 부터 따라가면서 학습하기 [Link](https://github.com/udacity/andfun-kotlin-mars-real-estate/tree/Step.01-Exercise-Making-Mars-Web-Service-Contact)
+
+- [ ] 1월 20일 월
+   * Udacity `Trivia` 앱으로 Navigation Graph 관련 학습
+   * 알고리즘 Shell 정렬까지 학습
+- [ ] 1월 21일 화
+  * 알고리즘 Quick Sort 학습
+  * **Naver AI API testing + 결과 보고**
+- [ ] 1월 22일 수
+  * 알고리즘 Merge Sort 학습
+  * Udacity App 학습 (ViewModel/LiveData 다큐먼트 복습)
+- [ ] 1월 23일 목
+  * 알고리즘 연습문제 (Quick sort) 3개 + 성능 분석
+  * Udacity App 학습
+- [ ] 1월 24일 금
+  * 알고리즘 연습문제 (Merge sort) 3개 + 성능 분석
+  * Udacity App 학습
