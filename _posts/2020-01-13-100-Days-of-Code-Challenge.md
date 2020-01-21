@@ -28,10 +28,11 @@ comments: true
 - [X] 1월 20일 월
    * Udacity `Trivia` 앱으로 Navigation Graph 관련 학습
    * ~~알고리즘 Shell 정렬까지 학습~~ (binary insertion sort 까지 했음)
-- [ ] 1월 21일 화
+- [X] 1월 21일 화
   * 알고리즘 Quick Sort, Shell Sort 학습
   * **Naver AI API testing + 결과 보고**
 - [ ] 1월 22일 수
+  * **Quick Sort 구현 수정하기**
   * 알고리즘 Merge Sort 학습
   * Udacity App 학습 (ViewModel/LiveData 다큐먼트 복습)
 - [ ] 1월 23일 목
