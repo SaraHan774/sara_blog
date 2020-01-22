@@ -31,13 +31,10 @@ comments: true
 - [X] 1월 21일 화
   * 알고리즘 Quick Sort, Shell Sort 학습
   * **Naver AI API testing + 결과 보고**
-- [ ] 1월 22일 수
+- [X] 1월 22일 수
   * **Quick Sort 구현 수정하기**
-  * 알고리즘 Merge Sort 학습
-  * Udacity App 학습 (ViewModel/LiveData 다큐먼트 복습)
 - [ ] 1월 23일 목
-  * 알고리즘 연습문제 (Quick sort) 3개 + 성능 분석
-  * Udacity App 학습
+  * 알고리즘 Quick Sort 연습문제 풀이
+  * **공공 데이터 API 작동 확인 + Prototyping 진행**
 - [ ] 1월 24일 금
-  * 알고리즘 연습문제 (Merge sort) 3개 + 성능 분석
-  * Udacity App 학습
+  * Udacity App 학습 (ViewModel/LiveData 다큐먼트 복습)
