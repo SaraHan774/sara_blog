@@ -23,7 +23,6 @@ comments: true
 ### Week2 Goal : 알고리즘 문제풀이, 해커톤 준비, Kotlin 학습
 1. Naver AI Hackday API testing (OCR ... )
 2. 알고리즘 in C 6단원 완료하기
-3. Udacity 의 `Mars Real Estate` 앱 Starter Code 부터 따라가면서 학습하기 [Link](https://github.com/udacity/andfun-kotlin-mars-real-estate/tree/Step.01-Exercise-Making-Mars-Web-Service-Contact)
 
 - [X] 1월 20일 월
    * Udacity `Trivia` 앱으로 Navigation Graph 관련 학습
@@ -37,4 +36,17 @@ comments: true
   * 알고리즘 Quick Sort 연습문제 풀이
   * **공공 데이터 API 작동 확인 + Prototyping 진행**
 - [X] 1월 24일 금
-  * Merge Sort 개념 학습 
+  * Merge Sort 개념 학습
+- [X] 1월 25일 토
+  * Kotlin in Action 예제 1-2단원 학습
+
+### Week 3 Goal: 알고리즘 어렵지만 참고 하자.
+1. 알고리즘 in C 7단원까지 학습, 정렬 알고리즘 총정리
+2. Udacity : `Mars Real Estate` 앱 Starter Code 부터 따라가면서 학습하기 [Link](https://github.com/udacity/andfun-kotlin-mars-real-estate/tree/Step.01-Exercise-Making-Mars-Web-Service-Contact)
+3. 프로그래밍 언어 보충 - C (Function Pointer 부분), Kotlin(Nullability 부분), Java(Thread & Annotation 부분)
+
+- [ ] 1월 27일 월
+- [ ] 1월 28일 화
+- [ ] 1월 29일 수
+- [ ] 1월 30일 목
+- [ ] 1월 31일 금
