@@ -4,6 +4,8 @@ title: "About"
 permalink: "/about"
 ---
 
+<script id="asp-embed-script" data-zindex="1000000" type="text/javascript" charset="utf-8" src="https://spark.adobe.com/page-embed.js"></script><a class="asp-embed-link" href="https://spark.adobe.com/page/VnfBovnMEGEmn/" target="_blank"><img src="https://spark.adobe.com/page/VnfBovnMEGEmn/embed.jpg?buster=1579961960890" alt="My Page" style="width:100%" border="0" /></a>
+
 ### ☎ Contact
 * E-mail : sarahan774@gmail.com
 * Github : [https://github.com/SaraHan774](https://github.com/SaraHan774)
@@ -18,6 +20,7 @@ permalink: "/about"
   * Japanese Department Graduate
 
 ### ✔ Experience
+
 * Mentor & Organizer of Hanyang University’s Android Study Group (2019.09 - Present)
   * Taught Java concepts and Android basics
   * Online Communication with mentees using Slack
@@ -41,15 +44,20 @@ permalink: "/about"
 * Intermediate Chinese Skill
   * HSK : Level 6, Score 249/300 (2018.01)
 
-### Past Projects
+### 🏆 Past Projects
 
-#### Assignments / Projects
+#### **Assignments / Projects**
 * **Scrawling Twitter data with Python (2018.11)**
   * Data scrolling & visualization with tweepy, matplotlib,  pandas, konlpy, beautiful soup etc.
 
 * **Simple quiz web app with HTML & javascript (2018.10)**
 
-#### Udacity Android Developer Nanodegree Projects
+<br><br>
+#### **Udacity Android Developer Nanodegree Projects**
+
+![read-simple-slider](/assets/img/ReadSimpleSlider.png){:class="img-responsive"}
+> Capstone Project : Read Simple Slider App
+
 * **Completed 5 Toy Projects on Fundamental concepts of Android & 1 Capstone Project (2019.01 - 2019.07)**
 * Built Apps that include :
   * Network connection for fetching JSON & XML data  using Volley, Retrofit library, AsyncTaskLoader, etc.
@@ -65,11 +73,20 @@ permalink: "/about"
   * UI testing with espresso
   * etc.
 
-#### Others
+#### **Others**
+
+![movie-Database](/assets/img/MovieDatabase.png){:class="img-responsive"}
+> Movie Database App made for teaching mentees.
+
 * **Sample App Made for Teaching School Mentees : Movie Database App (2019.08)**
   * Simple Movie Poster App that displays movie information fetched from movie site API
   * Includes Room DB, LiveData, ViewModel
   * Has like button, comment & sharing function
+
+<br><br><br>
+
+<script id="asp-embed-script" data-zindex="1000000" type="text/javascript" charset="utf-8" src="https://spark.adobe.com/page-embed.js"></script><a class="asp-embed-link" href="https://spark.adobe.com/page/8GGAunsWIDSXf/" target="_blank"><img src="https://spark.adobe.com/page/8GGAunsWIDSXf/embed.jpg?buster=1579960897870" alt="The Slider" style="width:100%" border="0" /></a>
+> Naver D2 mini DevFest 출품작 : The Slider App
 
 * **Naver D2 mini DevFest Competition : Live Slider App (2019.07)**
   * Simple RSS feed that displays news fetched with retrofit2
