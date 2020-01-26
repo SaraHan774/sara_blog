@@ -31,13 +31,23 @@ linkedin_username: gahee-han-sara
 google_analytics: UA-145918328-1
 
 # Build settings
-theme: minima
+theme: tale
+permalink:  /:year-:month-:day/:title
+paginate:   5
 
 plugins:
   - jekyll-feed
 
-disqus:
-  shortname: "sara-blog-1"
+disqus: "sara-blog-1"
+# Build settings
+
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
 
 defaults:
   - scope:

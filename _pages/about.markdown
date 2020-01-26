@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: "About🧒🏻"
+author: "Sara Han"
 permalink: "/about"
 ---
 
@@ -55,7 +56,7 @@ permalink: "/about"
 <br><br>
 #### **Udacity Android Developer Nanodegree Projects**
 
-![read-simple-slider](/assets/img/ReadSimpleSlider.png){:class="img-responsive"}
+![read-simple-slider](../assets/img/ReadSimpleSlider.png){:class="img-responsive"}
 > Capstone Project : Read Simple Slider App
 
 * **Completed 5 Toy Projects on Fundamental concepts of Android & 1 Capstone Project (2019.01 - 2019.07)**
@@ -76,7 +77,7 @@ permalink: "/about"
 
 #### **Others**
 
-![movie-Database](/assets/img/MovieDatabase.png){:class="img-responsive"}
+![movie-Database](../assets/img/MovieDatabase.png){:class="img-responsive"}
 > Movie Database App made for teaching mentees.
 
 * **Sample App Made for Teaching School Mentees : Movie Database App (2019.08)**

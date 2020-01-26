@@ -2,6 +2,7 @@
 layout: post
 title: "My First Post"
 author: "Sara Han"
+comments : false
 ---
 
 안드로이드를 사랑하는 대학생입니다. 앱 개발을 시작하면서 컴퓨터 과학의 전반적인 지식들과 안드로이드 이외의 다른 기술들에 호기심이 생겼습니다. 호기심을 해결하려 이런 저런 공부들을 하다보니 여기까지 오게 되었습니다.

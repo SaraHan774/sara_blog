@@ -1,6 +1,6 @@
 ---
-layout: "page"
-title: Travel✈
+layout: post
+title: TravelLog✈
 ---
 
 ### Check out my travel blog
