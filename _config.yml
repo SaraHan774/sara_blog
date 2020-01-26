@@ -50,15 +50,6 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
-defaults:
-  - scope:
-       path: ""
-       type: "posts"
-    values:
-       layout: "post"
-       title: "My Title"
-       comments : true
-       #values
 
 # Exclude from processing.
 # The following items will not be processed, by default.
