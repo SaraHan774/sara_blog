@@ -59,6 +59,7 @@ permalink: "/about"
 > Capstone Project : Read Simple Slider App
 
 * **Completed 5 Toy Projects on Fundamental concepts of Android & 1 Capstone Project (2019.01 - 2019.07)**
+* [Link to my Udacity certificate](https://graduation.udacity.com/confirm/J54R3E7)
 * Built Apps that include :
   * Network connection for fetching JSON & XML data  using Volley, Retrofit library, AsyncTaskLoader, etc.
   * Video display using SimpleExoPlayer
