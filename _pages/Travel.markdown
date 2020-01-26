@@ -1,6 +1,8 @@
 ---
 layout: post
-title: TravelLog✈
+title: Travel✈
+author : "Sara Han"
+permalink: "/travel"
 ---
 
 ### Check out my travel blog
