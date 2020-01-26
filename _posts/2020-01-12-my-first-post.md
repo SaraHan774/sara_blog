@@ -2,22 +2,8 @@
 layout: post
 title: "My First Post"
 author: "Sara Han"
-comments: true
 ---
 
-### I AM A ...
-* Student
-* Android Developer
-* Google Lover
-* Pet Lover
-* Curious Person
-* Multi-Lingual (Korean, English, Chinese, Japanese)
-
-### I WILL POST ...
-* My thoughts about various scientific/technological concepts.
-* My struggles during my own toy projects. (Mainly Android)
-* My interests such as
-  * technological accessibility of disabled people
-  * major depression disorder
-  * making more comfortable UI/UX for everyone
-  * and more
+안드로이드를 사랑하는 대학생입니다. 앱 개발을 시작하면서 컴퓨터 과학의 전반적인 지식들과 안드로이드 이외의 다른 기술들에 호기심이 생겼습니다. 호기심을 해결하려 이런 저런 공부들을 하다보니 여기까지 오게 되었습니다.
+<br>
+`알면 알수록 더 많이 보이는 것` 자체가 저에겐 가장 즐거운 일입니다. 앞으로 어떤 일을 하게 될지는 모르겠지만, 뭘 하든간에 끊임없이 배워야만 살아남는 분야에서 일하고 싶습니다.
