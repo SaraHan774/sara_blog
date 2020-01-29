@@ -45,8 +45,12 @@ comments: true
 2. Udacity : `Mars Real Estate` 앱 Starter Code 부터 따라가면서 학습하기 [Link](https://github.com/udacity/andfun-kotlin-mars-real-estate/tree/Step.01-Exercise-Making-Mars-Web-Service-Contact)
 3. 프로그래밍 언어 보충 - C (Function Pointer 부분), Kotlin(Nullability 부분), Java(Thread & Annotation 부분)
 
-- [ ] 1월 27일 월
-- [ ] 1월 28일 화
-- [ ] 1월 29일 수
+- [X] 1월 27일 월
+  * C 언어 보충 (코딩도장 Unit 34 - 40 / 지뢰찾기 문제풀이)
+  * 안드로이드 Mars Realestate 앱 학습, 네이버 Book Search API 로 Toy 앱 만들기 시작.
+- [X] 1월 28일 화
+  * 병합 정렬 복습, 지뢰찾기 문제 풀이 수정
+- [X] 1월 29일 수
+  * Java thread 복습 
 - [ ] 1월 30일 목
 - [ ] 1월 31일 금
