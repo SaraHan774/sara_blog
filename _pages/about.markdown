@@ -5,7 +5,27 @@ author: "Sara Han"
 permalink: "/about"
 ---
 
-<script id="asp-embed-script" data-zindex="1000000" type="text/javascript" charset="utf-8" src="https://spark.adobe.com/page-embed.js"></script><a class="asp-embed-link" href="https://spark.adobe.com/page/VnfBovnMEGEmn/" target="_blank"><img src="https://spark.adobe.com/page/VnfBovnMEGEmn/embed.jpg?buster=1579961960890" alt="My Page" style="width:100%" border="0" /></a>
+<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+<script>
+function copyToClipboard(val) {
+  var t = document.createElement("textarea");
+  document.body.appendChild(t);
+  t.value = val;
+  t.select();
+  document.execCommand('copy');
+  document.body.removeChild(t);
+}
+function gmailClickToCopy(){
+  copyToClipboard('sarahan774@gmail.com');
+  alert('Email address is copied to your clipboard!\n이메일이 클립보드에 복사 되었습니다.');
+};
+</script>
+
+<script id="asp-embed-script" data-zindex="1000000" type="text/javascript" charset="utf-8" src="https://spark.adobe.com/page-embed.js">
+</script>
+<a class="asp-embed-link" href="https://spark.adobe.com/page/VnfBovnMEGEmn/" target="_blank">
+  <img src="https://spark.adobe.com/page/VnfBovnMEGEmn/embed.jpg?buster=1579961960890" alt="My Page" style="width:100%" border="0" />
+</a>
 
 ### ☎ Contact
 <table style="width:100%">
@@ -16,9 +36,7 @@ permalink: "/about"
   </tr>
   <tr>
     <td>
-<a href = "sarahan774@gmail.com">
-    <img src="./assets/img/gmail.png" width = "30" height = "30">
-    </a>
+    <img id="gmailImage" src="./assets/img/gmail.png" width = "30" height = "30" onclick="gmailClickToCopy();">
     </td>
     <td>
     <a href = "https://github.com/SaraHan774">
