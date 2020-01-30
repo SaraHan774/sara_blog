@@ -45,6 +45,9 @@ markdown: kramdown
 include:
   - _pages
 
+social_links:
+  facebook: "thecodingsara"
+
 # Assets
 sass:
   sass_dir:     _sass

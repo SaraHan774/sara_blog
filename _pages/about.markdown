@@ -8,11 +8,48 @@ permalink: "/about"
 <script id="asp-embed-script" data-zindex="1000000" type="text/javascript" charset="utf-8" src="https://spark.adobe.com/page-embed.js"></script><a class="asp-embed-link" href="https://spark.adobe.com/page/VnfBovnMEGEmn/" target="_blank"><img src="https://spark.adobe.com/page/VnfBovnMEGEmn/embed.jpg?buster=1579961960890" alt="My Page" style="width:100%" border="0" /></a>
 
 ### ☎ Contact
-* E-mail : sarahan774@gmail.com
-* Github : [https://github.com/SaraHan774](https://github.com/SaraHan774)
-* Linkedin : [https://www.linkedin.com/in/gahee-han-sara](https://www.linkedin.com/in/gahee-han-sara)
+<table style="width:100%">
+  <tr>
+    <th>Gmail</th>
+    <th>Github</th>
+    <th>Linkedin</th>
+  </tr>
+  <tr>
+    <td>
+<a href = "sarahan774@gmail.com">
+    <img src="./assets/img/gmail.png" width = "30" height = "30">
+    </a>
+    </td>
+    <td>
+    <a href = "https://github.com/SaraHan774">
+        <img src="./assets/img/github-image.png" width = "30" height = "30">
+        </a>
+    </td>
+    <td>
+    <a href = "https://www.linkedin.com/in/gahee-han-sara">
+        <img src="./assets/img/linkedin.png" width = "30" height = "30">
+        </a>
+    </td>
+  </tr>
+</table>
 
 ### ✔ Education
+<center>
+  <table>
+    <tr>
+
+      <td><a href = "https://www.hanyang.ac.kr/web/eng">
+      <img src="./assets/img/HYU_symbol.png" width="120" height = "120">
+        </a>
+      </td>
+
+      <td><a href ="http://eng.dwfl.hs.kr/">
+      <img src="./assets/img/daewon.png" width="120" height = "120"></a></td>
+
+    </tr>
+  </table>
+</center>
+
 * Hanyang University Undergraduate (2016.02 - Present)
   * Chinese Literature and Language major
 * Earned & Currently Earning credits of CS related subjects such as:
