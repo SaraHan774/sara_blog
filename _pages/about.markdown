@@ -131,7 +131,6 @@ function gmailClickToCopy(){
   * etc.
 
 #### **Others**
-
 ![movie-Database](../assets/img/MovieDatabase.png){:class="img-responsive"}
 > Movie Database App made for teaching mentees.
 
