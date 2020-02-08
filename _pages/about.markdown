@@ -52,7 +52,8 @@ function gmailClickToCopy(){
 </table>
 
 ### ✔ Education
-<center>
+
+<div style="align-content: center">
   <table>
     <tr>
 
@@ -66,7 +67,7 @@ function gmailClickToCopy(){
 
     </tr>
   </table>
-</center>
+</div>
 
 * Hanyang University Undergraduate (2016.02 - Present)
   * Chinese Literature and Language major
