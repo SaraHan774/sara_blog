@@ -6,7 +6,8 @@ comments : true
 ---
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </center>
 
 ### Missing Semester
