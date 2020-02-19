@@ -53,21 +53,16 @@ function gmailClickToCopy(){
 
 ### ✔ Education
 
-<div style="align-content: center">
-  <table>
+  <table width="100%">
     <tr>
-
       <td><a href = "https://www.hanyang.ac.kr/web/eng">
       <img src="./assets/img/HYU_symbol.png" width="120" height = "120">
         </a>
       </td>
-
       <td><a href ="http://eng.dwfl.hs.kr/">
       <img src="./assets/img/daewon.png" width="120" height = "120"></a></td>
-
     </tr>
   </table>
-</div>
 
 * Hanyang University Undergraduate (2016.02 - Present)
   * Chinese Literature and Language major
