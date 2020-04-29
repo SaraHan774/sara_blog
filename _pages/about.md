@@ -32,7 +32,7 @@ function gmailClickToCopy(){
 </script>
 
 
-### ☎ Contact
+## ☎ Contact
 <table style="width:100%">
   <tr>
     <th>Gmail</th>
@@ -56,7 +56,7 @@ function gmailClickToCopy(){
   </tr>
 </table>
 
-### ✔ Education
+## ✔ Education
 
   <table width="100%">
     <tr>
@@ -69,27 +69,40 @@ function gmailClickToCopy(){
     </tr>
   </table>
 
-* Hanyang University Undergraduate (2016.02 - Present)
+#### Hanyang University Undergraduate (2016.02 - Present)
   * Chinese Literature and Language major
-* Earned & Currently Earning credits of CS related subjects such as:
-  * C++ Programming /  Unix System Programming /  DBMS / Discrete Mathematics / Programming for Engineers (Python) / Basic Web Programming /  Data Visualization
-* Daewon Foreign Language High School (2011.03 - 2014.02)
+
+#### Earned & Currently Earning credits of CS related subjects such as:
+  * C++ Programming 
+  * Unix System Programming 
+  * DBMS 
+  * Discrete Mathematics
+  * Programming for Engineers (Python)
+  * Basic Web Programming with JavaScript & HTML & CSS
+  * Data Visualization with Python
+
+#### Daewon Foreign Language High School (2011.03 - 2014.02)
   * Japanese Department Graduate
 
-### ✔ Experience
+## ✔ Experience
 
-* Mentor & Organizer of Hanyang University’s Android Study Group (2019.09 - Present)
+#### 세상에 필요한 IT서비스를 만드는 모임 '프로그라피'소속 안드로이드 개발자 / Android Developer at _Prography_ : Making IT Services that the world needs (2020.03 ~ **Present**)
+  * [Prography Link](http://prography.org/)
+  * Making Pet Hotel Reservation Service _"My Petmily"_
+
+#### Mentor & Organizer of Hanyang University’s Android Study Group (2019.09 - 2019.12)
   * Taught Java concepts and Android basics
   * Online Communication with mentees using Slack
+  * (**Present**) Working as Sub-Mentor 
 
-* Udacity Android developer Nanodegree graduate (2019.01 - 2019.07)
+#### Udacity Android developer Nanodegree graduate (2019.01 - 2019.07)
   * Completed 6 projects on core concepts of Android Development
 
-* Participant of Samsung Multicampus Android Mobile App Development Education (2018.08)
+#### Participant of Samsung Multicampus Android Mobile App Development Education (2018.08)
   * Completed capstone team project
   * Designed UI for busking information app
 
-### ✔ Additional Skills
+## ✔ Additional Skills
 * Familiar with Programming in Windows & Linux(Ubuntu) OS
 * Proficient Version Control Skills with Git
 
@@ -101,7 +114,7 @@ function gmailClickToCopy(){
 * Intermediate Chinese Skill
   * HSK : Level 6, Score 249/300 (2018.01)
 
-### 🏆 Past Projects
+## 🏆 Past Projects
 
 #### **Assignments / Projects**
 * **Scrawling Twitter data with Python (2018.11)**
