@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About🧒🏻"
+title: "About Gahee🧒🏻"
 author: "Sara Han"
 permalink: "/about"
 ---
