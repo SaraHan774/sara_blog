@@ -5,6 +5,16 @@ author: "Sara Han"
 permalink: "/about"
 ---
 
+
+<img src="./assets/img/2020_me_2.jpg" width="300"/>
+
+> _반갑습니다, 한가희입니다._
+> _세상에 필요한 안드로이드 개발자가 되기 위해 노력하는 중 입니다._
+
+<br>
+My name is Gahee Han, studying at Hanyang University(2016~). I have been studying foreign languages since I was very young, starting when I lived in Canada from 2005 to 2007. I studied English and French during elementary school years. After enrolling Daewon foreign language high school in Korea, I majored in Japanese. Now I am in Hanyang university majoring in Chinese Language and Literature. Even though I have spent almost half of my life mainly studying languages, my dream has been scientist and engineer. To pursue my dream before it gets too late, I started learning programming since 2018 May. I am now at an intermediate level of this area, and my focus is now on jumping into the next high level.
+<br><br>
+
 <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 <script>
 function copyToClipboard(val) {
@@ -21,11 +31,6 @@ function gmailClickToCopy(){
 };
 </script>
 
-<script id="asp-embed-script" data-zindex="1000000" type="text/javascript" charset="utf-8" src="https://spark.adobe.com/page-embed.js">
-</script>
-<a class="asp-embed-link" href="https://spark.adobe.com/page/VnfBovnMEGEmn/" target="_blank">
-  <img src="https://spark.adobe.com/page/VnfBovnMEGEmn/embed.jpg?buster=1579961960890" alt="My Page" style="width:100%" border="0" />
-</a>
 
 ### ☎ Contact
 <table style="width:100%">
@@ -104,7 +109,7 @@ function gmailClickToCopy(){
 
 * **Simple quiz web app with HTML & javascript (2018.10)**
 
-<br><br>
+<br>
 #### **Udacity Android Developer Nanodegree Projects**
 
 ![read-simple-slider](../assets/img/ReadSimpleSlider.png){:class="img-responsive"}
