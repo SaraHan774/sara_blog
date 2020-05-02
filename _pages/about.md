@@ -155,7 +155,7 @@ function gmailClickToCopy(){
 
 <br><br><br>
 
-<script id="asp-embed-script" data-zindex="1000000" type="text/javascript" charset="utf-8" src="https://spark.adobe.com/page-embed.js"></script><a class="asp-embed-link" href="https://spark.adobe.com/page/8GGAunsWIDSXf/" target="_blank"><img src="https://spark.adobe.com/page/8GGAunsWIDSXf/embed.jpg?buster=1579960897870" alt="The Slider" style="width:100%" border="0" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aK5KGjFnbSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > Naver D2 mini DevFest 출품작 : The Slider App
 
 * **Naver D2 mini DevFest Competition : Live Slider App (2019.07)**
