@@ -30,8 +30,8 @@ google_analytics: UA-145918328-1
 
 # Build settings
 # theme: tale
-permalink:  /:year-:month-:day/:title
-paginate:   5
+permalink:  /:year-:month-:day/:categories/:title
+paginate:   10
 
 plugins:
   - jekyll-feed

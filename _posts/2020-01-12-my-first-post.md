@@ -2,6 +2,7 @@
 layout: post
 title: "My First Post"
 author: "Sara Han"
+categories : Personal
 comments : false
 ---
 

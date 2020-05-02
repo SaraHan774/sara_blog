@@ -2,6 +2,7 @@
 layout: post
 title: "Jekyll 블로그 만들기" 
 author: "Sara Han"
+categories : Tech
 comments : false
 ---
 
@@ -51,13 +52,14 @@ VS 를 써봤는데 너무 지저분하더라 ... 사실 VS Code 를 많이 안�
 
 `ruby -v` 으로 설치 여부 확인 
 
-![FORIF%20Jekyll%20Github/Untitled.png](../assets/jekyll-seminar/Untitled.png)
+![FORIF%20Jekyll%20Github/Untitled.png]({{site.baseurl}}\assets\jekyll-seminar\Untitled.png)
+
 
 #### 2. RubyGems 
 
 `gem -v` 으로 설치 여부 확인 
 
-![FORIF%20Jekyll%20Github/Untitled%201.png](../assets/jekyll-seminar/Untitled 1.png)
+![FORIF%20Jekyll%20Github/Untitled%201.png]({{site.baseurl}}/assets/jekyll-seminar/Untitled 1.png)
 
 #### 3. GCC 와 Make 
 
@@ -73,7 +75,7 @@ VS 를 써봤는데 너무 지저분하더라 ... 사실 VS Code 를 많이 안�
 
 **WITH DEVKIT** 밑의 파일로 다운로드 
 
-![FORIF%20Jekyll%20Github/Untitled%202.png](..\assets\jekyll-seminar\Untitled 2.png)
+![FORIF%20Jekyll%20Github/Untitled%202.png]({{site.baseurl}}\assets\jekyll-seminar\Untitled 2.png)
 
 설치 마지막 단계에
 
@@ -226,7 +228,7 @@ http://127.0.0.1:4000
 
 위에서 만든 디렉토리들을 올릴 Repository 를 만든다. 
 
-![FORIF%20Jekyll%20Github/Untitled%203.png](..\assets\jekyll-seminar\Untitled 3.png)
+![FORIF%20Jekyll%20Github/Untitled%203.png]({{site.baseurl}}\assets\jekyll-seminar\Untitled 3.png)
 
     📌레포 이름이 번들러 프로젝트의 이름과 같을 필요는 없음
 
@@ -255,7 +257,7 @@ git commit -m "initial commit"
 
 `https://github.com/계정/레포이름.git` 주소를 복사하면 됨.
 
-![FORIF%20Jekyll%20Github/Untitled%204.png](..\assets\jekyll-seminar\Untitled 4.png)
+![FORIF%20Jekyll%20Github/Untitled%204.png]({{site.baseurl}}\assets\jekyll-seminar\Untitled 4.png)
 
 ```
 git remote add [레포 주소]
@@ -301,9 +303,9 @@ git push origin [브랜치 이름]
 
 📌 ***blog repository → environment 탭 클릭 → View Deployment 버튼 클릭*** → 블로그가 남들에게 어떻게 보이는지 확인 가능
 
-![FORIF%20Jekyll%20Github/Untitled%205.png](..\assets\jekyll-seminar\Untitled 5.png)
+![FORIF%20Jekyll%20Github/Untitled%205.png]({{site.baseurl}}\assets\jekyll-seminar\Untitled 5.png)
 
-![FORIF%20Jekyll%20Github/Untitled%206.png](..\assets\jekyll-seminar\Untitled 6.png)
+![FORIF%20Jekyll%20Github/Untitled%206.png]({{site.baseurl}}\assets\jekyll-seminar\Untitled 6.png)
 
 📌 에디터에서 편집하는 것이 불편하면 jekyll admin 플러그인을 설치하시면 됩니다. ~~경험상 Admin 을 잘 사용하지는 않습니다.~~ 
 
@@ -326,6 +328,6 @@ git push origin [브랜치 이름]
 
 *Supported Theme 사용 안하면 자꾸 메일이...* 
 
-![FORIF%20Jekyll%20Github/Untitled%207.png](..\assets\jekyll-seminar\Untitled 7.png)
+![FORIF%20Jekyll%20Github/Untitled%207.png]({{site.baseurl}}\assets\jekyll-seminar\Untitled 7.png)
 
 *⇒ `_config.yaml` 파일 안의 `theme : 테마이름` 줄을 지워버리면 경고 메일이 오지 않음.*

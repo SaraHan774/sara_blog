@@ -2,6 +2,7 @@
 layout : post
 title : MIT의 Missing Semester에 대한 개인적인 생각들
 author : Sara Han
+categories : Personal
 comments : true
 ---
 
