@@ -6,10 +6,11 @@ categories : Personal
 comments : true
 ---
 
-<center>
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-</center>
+</div>
+
 
 ### Missing Semester
 컴퓨터를 더 효율적으로 사용할 수 있도록 다양한 도구들을 학습하는 강좌이다.
