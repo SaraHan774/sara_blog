@@ -2,8 +2,8 @@
 layout: post
 title: "[OS] Deadlock"
 author: "Sara Han"
-categories : Tech
-comments : false
+categories : OperatingSystem
+comments : true
 ---
 
 # Deadlocks (Chapter 7)
