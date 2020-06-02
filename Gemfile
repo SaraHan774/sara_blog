@@ -17,6 +17,8 @@ gem 'jekyll-admin', group: :jekyll_plugins
 
 gem "tale"
 
+gem "activesupport", ">= 5.2.4.3"
+
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
