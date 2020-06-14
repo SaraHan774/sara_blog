@@ -352,6 +352,3 @@ File 에 대한 인덱스들을 갖고 있고, 몇번 썼다 지우고 하면 ma
   * 동적 구성요소 : 별도의 Process 나 Thread 인가? 아니다. 오버헤드가 큼. 그렇다면 Device driver 는 디바이스와 interaction 하면서 active 해야 하므로... Interrupt service routine 이 중요한 동적 구성요소 이다. 
 
 **=> 결국, device driver 들은 라이브러리 인데, 어떤 기능들은 API에 의해 유저로부터 호출, 어떤 기능들은 인터럽트로 인해 호출된다.** 
-
-
-
