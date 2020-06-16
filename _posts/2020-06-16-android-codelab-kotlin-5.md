@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Codelab : Kotlin Fundamentals 에서 헷갈리는 부분들 정리"
+title: "Android Codelab 정리 : ViewModel, LiveData, DataBinding"
 author: "Sara Han"
 categories : Android
 comments : false
@@ -347,7 +347,7 @@ dataBinding {
 
 Binding 객체를 형성한다. 
 
-he name is derived from the name of the layout file, that is, `activity_main + Binding`.
+the name is derived from the name of the layout file, that is, `activity_main + Binding`.
 
 ```kotlin
 private lateinit var binding: ActivityMainBinding
