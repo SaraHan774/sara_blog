@@ -193,7 +193,7 @@ Device File 에도 약간의 contents 가 있을 것이다, 보통의 파일과 
 
 
 
-**태릭터 디바이스 테이블의 인덱스는?** 
+**캐릭터 디바이스 테이블의 인덱스는?** 
 
 Major Number 이다. 운영체제가 메이저 넘버를 알아야만 해당 드라이버를 얻어올 수 있다. 이를 **지원하는 system call은 `open()` 이다.** 매개변수로 file path name 을 주는데 이게 device name임. 운영체제는 dev 디렉토리를 뒤져서 해당 major number 를 뒤져서 사용. 
 
