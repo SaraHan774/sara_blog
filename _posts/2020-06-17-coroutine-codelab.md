@@ -11,7 +11,6 @@ comments : false
 * [Codelab : Kotlin Coroutines](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#2)
 
 
-
 코루틴 사용을 위해서 디펜던시 추가하기
 
 ```groovy
@@ -215,3 +214,14 @@ fun updateTaps() {
 1. `viewModelScope.launch` 는 뷰모델 스코프 안에서 코루틴을 시작할 것이다. 우리가 viewModelScope 에다가 넘겨준 job 이 취소되는 경우, 해당 Job 혹은 Scope 안에 있는 모든 코루틴들이 취소된다. 만약 delay 가 return 하기 전에 유저가 Activity 를 떠났다면, 이 코루틴은 onCleared 에서 자동적으로 취소된다. 
 2. viewModelScope 은 초기값으로 Dispatchers.Main 을 사용하기 때문에 메인 스레드에서 코루틴이 launch 될 것이다. 
 3. delay 함수는 suspend function 이다. **이 코루틴은 main thread 에서 돌아가지만 delay 는 thread 를 1초동안 블러킹 하지 않을 것이다.** Dispatcher 는 코루틴이 1초 후 resume 하도록 스케줄 한다. 
+
+
+---
+
+*  참고자료
+    * [Medium Post : Structured Concurrency](https://medium.com/@elizarov/structured-concurrency-722d765aa952)
+    * [Kotlin Doc : Structured Concurrency](https://kotlinlang.org/docs/reference/coroutines/basics.html#structured-concurrency)
+
+> Instead of launching coroutines in the GlobalScope, just like we usually do with threads (threads are always global), we can launch coroutines in the specific scope of the operation we are performing.
+
+> Every coroutine builder, including runBlocking, adds an instance of CoroutineScope to the scope of its code block. We can launch coroutines in this scope without having to join them explicitly, because an outer coroutine (runBlocking in our example) does not complete until all the coroutines launched in its scope complete. 
