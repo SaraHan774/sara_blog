@@ -175,7 +175,7 @@ dependencies {
 
 
 
-```
+```kotlin
 /**
 * Wait one second then update the tap count.
 */
@@ -193,7 +193,7 @@ private fun updateTaps() {
 
 
 
-```
+```kotlin
 /**
 * Wait one second then display a snackbar.
 */
