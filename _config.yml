@@ -18,20 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Coding Sara
+title: Veritas Lux Mea 📚
 email: sarahan774@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I've Always Been Curious.
 baseurl: "/thecodingsara" # the subpath of your site, e.g. /blog
 url: "https://sarahan774.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-
 google_analytics: UA-145918328-1
 
 # Build settings
 # theme: tale
-permalink:  /:year-:month-:day/:categories/:title
-paginate:   5
+permalink: /:year-:month-:day/:categories/:title
+paginate: 5
 
 plugins:
   - jekyll-feed
@@ -50,10 +49,8 @@ social_links:
 
 # Assets
 sass:
-  sass_dir:     _sass
-  style:        compressed
-
-
+  sass_dir: _sass
+  style: compressed
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
