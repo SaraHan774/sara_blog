@@ -162,7 +162,8 @@ function gmailClickToCopy(){
     - 관련 프로젝트 : [영화 포스터 디스플레이 앱](https://github.com/SaraHan774/PopularMoviesStage2)
   - 위젯 만들기, Tablet 버전 UI 만들기, SimpleExoPlayer 활용하기 등
     - 관련 프로젝트 : [베이킹 레시피 앱](https://github.com/SaraHan774/BakingApp_1)
-    - 설명 : Udacity 에서 제공해주는 mp4 파일을 ExoPlayer 로 디스플레이 하여 빵을 굽는 
+    - 설명 : Udacity 에서 제공해주는 mp4 파일을 ExoPlayer 로 디스플레이 하여 레시피
+    영상들을 디스플레이 하는 앱
   - 배운 것들을 활용한 캡스톤 프로젝트 
     - 관련 프로젝트 : [Read Simple Slider](https://github.com/SaraHan774/rss-v1)
 
