@@ -7,8 +7,7 @@ permalink: "/about"
 
 <img src="./assets/img/2020_me_2.jpg" width="300"/>
 
-> _반갑습니다, 한가희입니다._ 
-> _세상에 필요한 안드로이드 개발자가 되기 위해 노력하는 중 입니다._
+> _반갑습니다, 한가희입니다._ > _세상에 필요한 안드로이드 개발자가 되기 위해 노력하는 중 입니다._
 
 <br>
 2018년 여름 헬스케어 AI스타트업에서 3주간 경쟁사 보고서를 작성하는 인턴을 하며 말로만 듣던 4차 산업혁명을 몸소 체감하였습니다. 이 일을 계기로 IT직군에 큰 매력을 느꼈고, 제가 걸어온 길과 전혀 다른 길을 2년 째 걸어오는 중입니다. 외국어 고등학교를 졸업하고 어문계열을 전공했던 만큼 익숙하고 편한 길이 있었지만 저는 제가 생각하는 미래를 위해서 기꺼이 익숙함을 떨쳐낸 바 있습니다. 앞으로도 세상의 변화에 발 맞추어 무한히 진화하는 사람이 되고 싶습니다.
@@ -82,12 +81,13 @@ function gmailClickToCopy(){
 - **2016.03** 입학
 
 - **컴퓨터소프트웨어학과 및 정보시스템학과 수업 이수**
+
   - C++ Programming
   - Unix System Programming
   - DBMS
   - Discrete Mathematics
 
-- **기타 프로그래밍 관련 수업 이수** 
+- **기타 프로그래밍 관련 수업 이수**
   - Programming for Engineers (Python)
   - Basic Web Programming with JavaScript & HTML & CSS
   - Data Visualization with Python
@@ -100,6 +100,8 @@ function gmailClickToCopy(){
 ## Experience
 
 #### 스타트업 PenguinLAB.INC 의 여행 동행 어플 베타버전 설계 및 구현
+
+<script id="asp-embed-script" data-zindex="1000000" type="text/javascript" charset="utf-8" src="https://spark.adobe.com/page-embed.js"></script><a class="asp-embed-link" href="https://spark.adobe.com/page/2t33j2qmPiNKa/" target="_blank"><img src="https://spark.adobe.com/page/2t33j2qmPiNKa/embed.jpg?buster=1610853517612" alt="여행 동행이 필요할 때, &quot;트래곤&quot;" style="width:100%" border="0" /></a>
 
 - [구글 플레이스토어 링크](https://play.google.com/store/apps/details?id=com.penguinlab.tragon)
 - 외주 기간 : 2020-09 ~ 2020-12
@@ -114,7 +116,9 @@ function gmailClickToCopy(){
   - Jenkins 를 이용한 구글 플레이스토어 배포
   - 서버 개발자, iOS 개발자, 디자이너, 마케터와 협업
 
-#### IT서비스 개발 동아리 프로그라피 활동 : 애견호텔 예약 어플 설계 및 구현 
+#### IT서비스 개발 동아리 프로그라피 활동 : 애견호텔 예약 어플 설계 및 구현
+
+<script id="asp-embed-script" data-zindex="1000000" type="text/javascript" charset="utf-8" src="https://spark.adobe.com/page-embed.js"></script><a class="asp-embed-link" href="https://spark.adobe.com/page/th9cMGM2Xmrlo/" target="_blank"><img src="https://spark.adobe.com/page/th9cMGM2Xmrlo/embed.jpg?buster=1610854378518" alt="애견호텔 예약은 &quot;마이펫밀리&quot;" style="width:100%" border="0" /></a>
 
 - [구글 플레이스토어 링크](https://play.google.com/store/apps/details?id=com.prography.pethotel&hl=ko)
 - [프로그라피 링크](http://prography.org/)
@@ -138,33 +142,33 @@ function gmailClickToCopy(){
 - 사용한 기술 : Android, Java
 - 협업 툴 : Github, Slack
 - 활동 내용
-  - 총 7회에 걸친 오프라인 강의  
-    - Java 기초 문법 
-    - Java 의 어떤 부분들이 안드로이드 프레임웍에서 중요하게 활용되는지 
-    - Java 디자인 패턴 중 어떤 부분들이 안드로이드 프레임웍에서 자주 등장하는지 
-    - 안드로이드 레이아웃 기초 
-    - 안드로이드 아키텍처가 왜 필요한지 
-    - 안드로이드 네트워킹 
-    - 안드로이드 로컬 DB 활용하기 
+  - 총 7회에 걸친 오프라인 강의
+    - Java 기초 문법
+    - Java 의 어떤 부분들이 안드로이드 프레임웍에서 중요하게 활용되는지
+    - Java 디자인 패턴 중 어떤 부분들이 안드로이드 프레임웍에서 자주 등장하는지
+    - 안드로이드 레이아웃 기초
+    - 안드로이드 아키텍처가 왜 필요한지
+    - 안드로이드 네트워킹
+    - 안드로이드 로컬 DB 활용하기
     - [강의 자료 링크](https://github.com/SaraHan774/android-study-forif)
-  - 학기 말 해커톤 지도 
-    - 먹방 룰렛 어플 '왓냠'의 제작을 지도하였습니다. 
+  - 학기 말 해커톤 지도
+    - 먹방 룰렛 어플 '왓냠'의 제작을 지도하였습니다.
     - [해커톤 앱 깃헙 레포](https://github.com/SaraHan774/WATNYAM)
 
 #### Udacity 의 안드로이드 개발 나노디그리 취득
 
 - [수료증 링크](https://confirm.udacity.com/J54R3E7)
 - 이수 기간 : 2019-02 ~ 2019-07
-- 사용한 기술 : Android, Java, Firebase, Espresso UI Testing, Google Cloud Platform, etc. 
-- 학습 내용 
+- 사용한 기술 : Android, Java, Firebase, Espresso UI Testing, Google Cloud Platform, etc.
+- 학습 내용
   - 안드로이드의 레이아웃 및 기초 개념
-  - 안드로이드에서의 HTTP 통신 및 로컬 DB 활용 방법 
+  - 안드로이드에서의 HTTP 통신 및 로컬 DB 활용 방법
     - 관련 프로젝트 : [영화 포스터 디스플레이 앱](https://github.com/SaraHan774/PopularMoviesStage2)
   - 위젯 만들기, Tablet 버전 UI 만들기, SimpleExoPlayer 활용하기 등
     - 관련 프로젝트 : [베이킹 레시피 앱](https://github.com/SaraHan774/BakingApp_1)
     - 설명 : Udacity 에서 제공해주는 mp4 파일을 ExoPlayer 로 디스플레이 하여 레시피
-    영상들을 디스플레이 하는 앱
-  - 배운 것들을 활용한 캡스톤 프로젝트 
+      영상들을 디스플레이 하는 앱
+  - 배운 것들을 활용한 캡스톤 프로젝트
     - 관련 프로젝트 : [Read Simple Slider](https://github.com/SaraHan774/rss-v1)
 
 #### 삼성 멀티캠퍼스 '안드로이드 & Java' 취업 교육 이수
@@ -173,7 +177,7 @@ function gmailClickToCopy(){
 - 이수 기간 : 2018-07 ~ 2018-08
 - 사용한 기술 : Android, Java, SQL
 - 학습 내용
-  - Java 기초 문법 및 객체지향 프로그래밍 개념 
+  - Java 기초 문법 및 객체지향 프로그래밍 개념
   - 안드로이드 기초 개념
   - 마지막 2주간 팀 프로젝트 진행
 
@@ -181,13 +185,13 @@ function gmailClickToCopy(){
 
 - 리눅스 (Ubuntu, CentOS)환경 기반 개발 경험 있음
 - Git 을 이용한 버전관리 능숙
-- 업무와 일상 생활에 지장 없는 **영어** 실력 
+- 업무와 일상 생활에 지장 없는 **영어** 실력
 
   - OPIc IH (2018.07)
   - TOEIC 스피킹 200/200 (2018.06)
   - TOEIC 985/990 (2018.02)
 
-- 중급 **중국어** 실력 
+- 중급 **중국어** 실력
   - HSK 6급 249/300 (2018.01)
 
 ## Past Projects
