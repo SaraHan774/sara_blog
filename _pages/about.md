@@ -5,7 +5,7 @@ author: "Sara Han"
 permalink: "/about"
 ---
 
-<img src="./assets/img/2020_me_2.jpg" width="300"/>
+<img src="./assets/img/2020_me_2.jpg" width="300" style="border-radius: 50%"/>
 
 > _반갑습니다, 한가희입니다._ > _세상에 필요한 안드로이드 개발자가 되기 위해 노력하는 중 입니다._
 
@@ -249,3 +249,10 @@ function gmailClickToCopy(){
   - Simple RSS feed that displays news fetched with retrofit2
   - Live slider with Timer & ViewPager
   - Includes **python flask** server for analysing images with **Google Vision API** and integrated the results with the search bar.
+
+<br/><br/>
+
+#### Art works
+
+- Android 전광판 :)
+  <img src="./assets/img/android.jpg" width="300"/>
